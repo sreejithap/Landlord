@@ -101,6 +101,7 @@ Building internally allowed us to rapidly integrate evolving controls, approval 
 
 # Architecture Overview
 
+
 At a high level, Landlord operates as an orchestration and integration layer between developers and enterprise infrastructure services.
 
 ## Core Components
