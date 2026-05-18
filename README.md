@@ -63,6 +63,12 @@ Instead of developers opening tickets across multiple teams, Landlord abstracts 
 
 ---
 
+# Architecture
+
+![Landlord Platform Architecture](docs/architecture-diagram.png)
+
+---
+
 # Why We Built It Internally
 
 One of the biggest decisions we made was building these capabilities internally instead of relying heavily on multiple specialized vendor tools.
