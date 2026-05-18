@@ -65,7 +65,7 @@ Instead of developers opening tickets across multiple teams, Landlord abstracts 
 
 # Architecture
 
-![Landlord Platform Architecture](docs/architecture-diagram.png)
+![Landlord Platform Architecture](docs/Landlord-Arch.png)
 
 ---
 
